@@ -20,7 +20,7 @@ Smaller devices screen example:
 
 ![Top-Page-Area](./assets/images/main-page-smaller.JPG?raw=true "Top-Page-Area")
 
-<a name="web address"></a>
+<a name="web"></a>
 ## 2. Web Address
 
 ### Open your favorite web browser and enter the following web address to access.
