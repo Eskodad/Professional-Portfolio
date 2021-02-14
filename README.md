@@ -25,6 +25,7 @@ Smaller devices screen example:
 ### Open your favorite web browser and enter the following web address to access.
 
 Website URL: <https://eskodad.github.io/Professional-Portfolio/.>
+
 Repository URL: https://github.com/Eskodad/Professional-Portfolio
 
 
