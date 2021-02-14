@@ -24,10 +24,9 @@ Smaller devices screen example:
 
 ### Open your favorite web browser and enter the following web address to access.
 
-```html
 https://eskodad.github.io/Professional-Portfolio/.
-```
-<a name="usage"></a>
+
+
 ## 3. Usage Tips
 
 
