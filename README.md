@@ -5,6 +5,7 @@
 5. [License. ](#license)
 
 
+<a name="description"></a>
 ## 1. Description
 
 
@@ -19,7 +20,8 @@ Smaller devices screen example:
 
 ![Top-Page-Area](./assets/images/main-page-smaller.JPG?raw=true "Top-Page-Area")
 
-## 2. How to Get There
+<a name="web address"></a>
+## 2. Web Address
 
 ### Open your favorite web browser and enter the following web address to access.
 
