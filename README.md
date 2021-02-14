@@ -27,7 +27,7 @@ Website URL: <https://eskodad.github.io/Professional-Portfolio/.>
 
 Repository URL: https://github.com/Eskodad/Professional-Portfolio
 
-
+<a name="usage"></a>
 ## 3. Usage Tips
 
 
@@ -53,7 +53,7 @@ Smaller devices screen example:
 
 ![body-section](./assets/images/navigate-website-smaller.JPG?raw=true "Body Section")
 
-
+<a name="contributing"></a>
 ## 4. Contributing
 Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
 
