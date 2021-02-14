@@ -8,7 +8,7 @@
 ## 1. Description
 
 
-### This is the landing page for Sahr Koroma web portfolio.
+### This is the landing page for Sahr Koroma's web portfolio.
 
 
 Desktop screen:
